@@ -1,6 +1,6 @@
 {
-  "name": "@hakimiqbal/tea-guava",
-  "version": "1.1.3",
+  "name": "tea-guava",
+  "version": "1.1.5",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
